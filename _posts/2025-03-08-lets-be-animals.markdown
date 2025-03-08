@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Let's Be Animals Again"
-date:   2025-03-08 13:00:00 -0600
+date:   2025-03-08 14:00:00 -0600
 categories: philosophy post-humanism post-industrialism society
 ---
 What is the desired end destination of Industrialism? I argue here that it is something other than uploading our consciousness to simulations or traveling on starships to reach distant planets. Although these things might one day be feasible, I'm primarily concerned about when we stop building factories. The inevitable answer is that we stop building factories when they start building themselves.
